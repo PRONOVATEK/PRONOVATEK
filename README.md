@@ -31,8 +31,8 @@
 </p>
 
 - <a href="https://www.instagram.com/stark182/"><img src="https://img.shields.io/badge/instagram%20@stark182-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-- <a href="https://www.facebook.com/GamaStark/"><img src="https://img.shields.io/badge/facebook%20@GamaStark.1694-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+- <a href="https://www.facebook.com/GamaStark/"><img src="https://img.shields.io/badge/facebook%20@GamaStark-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 - <a href="https://www.twitter.com/GamaStark/"><img src="https://img.shields.io/badge/twitter%20@GamaStark-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 - <a href="http://www.pronovatek.com/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20pronovatek-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
 
-⭐️ From and Thanks to [devSouvik](https://github.com/devSouvik)
+⭐️ Thanks to [devSouvik](https://github.com/devSouvik)
